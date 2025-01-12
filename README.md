@@ -1,0 +1,2 @@
+# ThechnicalTestNq
+Datos históricos NBA
